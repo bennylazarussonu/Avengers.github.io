@@ -1,8 +1,7 @@
 # Avengers.github.io
 All about Avengers
 
-<!DOCTYPE html>
-<html>
+<html lang='eng'>
   <head><title>Avengers.com</title>
   <style>
     body{
