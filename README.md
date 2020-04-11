@@ -1,2 +1,2 @@
 # Avengers.github.io
-All about Avegers
+All about Avengers
